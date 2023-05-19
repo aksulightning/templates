@@ -1,0 +1,5 @@
+# Example
+
+Package: example
+Pin: origin *
+Pin-Priority: -1
